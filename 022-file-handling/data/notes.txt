@@ -1,0 +1,3 @@
+Welcome to Python
+Learning files is important
+File handling makes programs useful
